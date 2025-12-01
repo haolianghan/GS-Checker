@@ -46,9 +46,9 @@ If you find our paper useful for your work please cite:
 
 ```BibTex
 @inproceedings{han2026gs,
-      title={GS-Checker: Tampering Localization for 3D Gaussian Splatting}, 
-      author={Haoliang Han and Ziyuan Luo and Jun Qi and Anderson Rocha and Renjie Wan},
+      title    ={GS-Checker: Tampering Localization for 3D Gaussian Splatting}, 
+      author   ={Haoliang Han and Ziyuan Luo and Jun Qi and Anderson Rocha and Renjie Wan},
       booktitle={AAAI},
-      year={2026}
+      year     ={2026}
 }
 ```
