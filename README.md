@@ -2,7 +2,6 @@
 
 This is the official implementation of [GS-Checker: Tampering Localization for 3D Gaussian Splatting](https://arxiv.org/abs/2511.20354) [AAAI 2026].
 
-<br>
 
 # Installation
 
