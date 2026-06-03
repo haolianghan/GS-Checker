@@ -29,7 +29,7 @@ download the weights from [Google Drive Link](https://drive.google.com/drive/fol
 
 ## Data
 
-Our dataset will be released soon.
+Our dataset is available at [https://huggingface.co/datasets/Haoliang123/3DGS_Tamper](https://huggingface.co/datasets/Haoliang123/3DGS_Tamper).
 
 ## Tampering localization
 ```bash
